@@ -1,10 +1,12 @@
 {
   "model": "GBM_reference_standard_split",
   "accuracy": 0.8990267639902676,
-  "f1_purchase": 0.6458036984352774,
+  "f1_purchase_test": 0.6458036984352774,
+  "f1_purchase_train": 0.7733902525791533,
+  "train_test_gap_f1": 0.12758655414387587,
   "recall_purchase": 0.5942408376963351,
   "precision_purchase": 0.7071651090342679,
-  "roc_auc": 0.9264528544583012,
-  "cv_f1_mean": 0.6530373139344604,
-  "cv_f1_std": 0.011162644540278118
+  "roc_auc": 0.9264553667433751,
+  "cv_f1_mean": 0.6519049801728063,
+  "cv_f1_std": 0.01145995220068611
 }
